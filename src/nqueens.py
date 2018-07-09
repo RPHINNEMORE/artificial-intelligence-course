@@ -1,6 +1,3 @@
-#CISC 352: Assignment 1
-#Student Number: 10145179
-
 import random
 
 def manage_input():
